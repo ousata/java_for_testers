@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="SandboxNew:main" external.linked.project.path="C:/ DEV/SandboxNew" external.root.project.path="C:/ DEV/SandboxNew" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://C:/ DEV/SandboxNew/build/classes/main" />
+    <exclude-output />
+    <content url="file://C:/ DEV/SandboxNew/src/main">
+      <sourceFolder url="file://C:/ DEV/SandboxNew/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://C:/ DEV/SandboxNew/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
